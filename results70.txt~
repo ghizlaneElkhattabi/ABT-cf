@@ -1,0 +1,811 @@
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 10 instance : 1
+-- MSGs : 38     -- CCCs : 29      --Time(ms) : 52578
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 10 instance : 2
+
+-- MSGs : 39     -- CCCs : 24      --Time(ms) : 21774
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 10 instance : 3
+
+-- MSGs : 40     -- CCCs : 24      --Time(ms) : 21590
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 10 instance : 4
+
+-- MSGs : 38     -- CCCs : 29      --Time(ms) : 21491
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 10 instance : 5
+
+-- MSGs : 40     -- CCCs : 145      --Time(ms) : 21393
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 10 instance : 6
+
+-- MSGs : 39     -- CCCs : 166      --Time(ms) : 21464
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 10 instance : 7
+
+-- MSGs : 39     -- CCCs : 20      --Time(ms) : 21396
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 10 instance : 8
+
+-- MSGs : 39     -- CCCs : 20      --Time(ms) : 21416
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 10 instance : 9
+
+-- MSGs : 39     -- CCCs : 38      --Time(ms) : 21386
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 10 instance : 10
+
+-- MSGs : 39     -- CCCs : 28      --Time(ms) : 21395
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 15 instance : 1
+
+-- MSGs : 39     -- CCCs : 64      --Time(ms) : 21554
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 15 instance : 2
+
+-- MSGs : 39     -- CCCs : 64      --Time(ms) : 21543
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 15 instance : 3
+
+-- MSGs : 40     -- CCCs : 185      --Time(ms) : 21627
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 15 instance : 4
+
+-- MSGs : 39     -- CCCs : 200      --Time(ms) : 21758
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 15 instance : 5
+
+-- MSGs : 40     -- CCCs : 106      --Time(ms) : 21463
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 15 instance : 6
+
+-- MSGs : 39     -- CCCs : 118      --Time(ms) : 21484
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 15 instance : 7
+
+-- MSGs : 39     -- CCCs : 39      --Time(ms) : 21467
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 15 instance : 8
+
+-- MSGs : 40     -- CCCs : 39      --Time(ms) : 21507
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 15 instance : 9
+
+-- MSGs : 39     -- CCCs : 50      --Time(ms) : 21493
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 15 instance : 10
+
+-- MSGs : 39     -- CCCs : 42      --Time(ms) : 21561
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 20 instance : 1
+
+-- MSGs : 40     -- CCCs : 66      --Time(ms) : 21446
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 20 instance : 2
+
+-- MSGs : 39     -- CCCs : 66      --Time(ms) : 21614
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 20 instance : 3
+
+-- MSGs : 40     -- CCCs : 279      --Time(ms) : 21567
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 20 instance : 4
+
+-- MSGs : 40     -- CCCs : 294      --Time(ms) : 21851
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 20 instance : 5
+
+-- MSGs : 46     -- CCCs : 222      --Time(ms) : 21464
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 20 instance : 6
+
+-- MSGs : 47     -- CCCs : 116      --Time(ms) : 21521
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 20 instance : 7
+
+-- MSGs : 39     -- CCCs : 242      --Time(ms) : 21800
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 20 instance : 8
+
+-- MSGs : 40     -- CCCs : 234      --Time(ms) : 21776
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 20 instance : 9
+
+-- MSGs : 40     -- CCCs : 70      --Time(ms) : 21527
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 20 instance : 10
+
+-- MSGs : 40     -- CCCs : 58      --Time(ms) : 21516
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 25 instance : 1
+
+-- MSGs : 39     -- CCCs : 24      --Time(ms) : 21629
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 25 instance : 2
+
+-- MSGs : 40     -- CCCs : 60      --Time(ms) : 21495
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 25 instance : 3
+
+-- MSGs : 39     -- CCCs : 80      --Time(ms) : 21565
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 25 instance : 4
+
+-- MSGs : 40     -- CCCs : 80      --Time(ms) : 21481
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 25 instance : 5
+
+-- MSGs : 39     -- CCCs : 26      --Time(ms) : 21557
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 25 instance : 6
+
+-- MSGs : 40     -- CCCs : 54      --Time(ms) : 21422
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 25 instance : 7
+
+-- MSGs : 39     -- CCCs : 32      --Time(ms) : 21460
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 25 instance : 8
+
+-- MSGs : 39     -- CCCs : 36      --Time(ms) : 21425
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 25 instance : 9
+
+-- MSGs : 39     -- CCCs : 91      --Time(ms) : 21786
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 25 instance : 10
+
+-- MSGs : 39     -- CCCs : 78      --Time(ms) : 21976
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 30 instance : 1
+
+-- MSGs : 39     -- CCCs : 108      --Time(ms) : 21712
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 30 instance : 2
+
+-- MSGs : 39     -- CCCs : 46      --Time(ms) : 21887
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 30 instance : 3
+
+-- MSGs : 46     -- CCCs : 183      --Time(ms) : 21834
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 30 instance : 4
+
+-- MSGs : 41     -- CCCs : 143      --Time(ms) : 21976
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 30 instance : 5
+
+-- MSGs : 40     -- CCCs : 154      --Time(ms) : 21589
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 30 instance : 6
+
+-- MSGs : 39     -- CCCs : 154      --Time(ms) : 21423
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 30 instance : 7
+
+-- MSGs : 88     -- CCCs : 2072      --Time(ms) : 21885
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 30 instance : 8
+
+-- MSGs : 86     -- CCCs : 1782      --Time(ms) : 21708
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 30 instance : 9
+
+-- MSGs : 39     -- CCCs : 186      --Time(ms) : 21351
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 30 instance : 10
+
+-- MSGs : 41     -- CCCs : 220      --Time(ms) : 21386
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 35 instance : 1
+
+-- MSGs : 47     -- CCCs : 759      --Time(ms) : 21970
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 35 instance : 2
+
+-- MSGs : 47     -- CCCs : 747      --Time(ms) : 21930
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 35 instance : 3
+
+-- MSGs : 52     -- CCCs : 283      --Time(ms) : 21457
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 35 instance : 4
+
+-- MSGs : 57     -- CCCs : 302      --Time(ms) : 21471
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 35 instance : 5
+
+-- MSGs : 40     -- CCCs : 38      --Time(ms) : 21618
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 35 instance : 6
+
+-- MSGs : 39     -- CCCs : 54      --Time(ms) : 21848
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 35 instance : 7
+
+-- MSGs : 334     -- CCCs : 2665      --Time(ms) : 21557
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 35 instance : 8
+
+-- MSGs : 345     -- CCCs : 3260      --Time(ms) : 21597
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 35 instance : 9
+
+-- MSGs : 39     -- CCCs : 54      --Time(ms) : 21716
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 35 instance : 10
+
+-- MSGs : 39     -- CCCs : 54      --Time(ms) : 21728
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 40 instance : 1
+
+-- MSGs : 39     -- CCCs : 65      --Time(ms) : 21512
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 40 instance : 2
+
+-- MSGs : 41     -- CCCs : 64      --Time(ms) : 21518
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 40 instance : 3
+
+-- MSGs : 120     -- CCCs : 1321      --Time(ms) : 21619
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 40 instance : 4
+
+-- MSGs : 117     -- CCCs : 1261      --Time(ms) : 21639
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 40 instance : 5
+
+-- MSGs : 71     -- CCCs : 218      --Time(ms) : 21681
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 40 instance : 6
+
+-- MSGs : 70     -- CCCs : 204      --Time(ms) : 21863
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 40 instance : 7
+
+-- MSGs : 94     -- CCCs : 504      --Time(ms) : 21786
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 40 instance : 8
+
+-- MSGs : 85     -- CCCs : 492      --Time(ms) : 21835
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 40 instance : 9
+
+-- MSGs : 70     -- CCCs : 511      --Time(ms) : 22105
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 40 instance : 10
+
+-- MSGs : 68     -- CCCs : 329      --Time(ms) : 22076
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 45 instance : 1
+
+-- MSGs : 77     -- CCCs : 608      --Time(ms) : 21699
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 45 instance : 2
+
+-- MSGs : 75     -- CCCs : 532      --Time(ms) : 21690
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 45 instance : 3
+
+-- MSGs : 50     -- CCCs : 194      --Time(ms) : 21439
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 45 instance : 4
+
+-- MSGs : 48     -- CCCs : 209      --Time(ms) : 21465
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 45 instance : 5
+
+-- MSGs : 47     -- CCCs : 132      --Time(ms) : 21377
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 45 instance : 6
+
+-- MSGs : 46     -- CCCs : 132      --Time(ms) : 21429
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 45 instance : 7
+
+-- MSGs : 71     -- CCCs : 409      --Time(ms) : 21496
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 45 instance : 8
+
+-- MSGs : 65     -- CCCs : 509      --Time(ms) : 21741
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 45 instance : 9
+
+-- MSGs : 55     -- CCCs : 357      --Time(ms) : 22388
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 45 instance : 10
+
+-- MSGs : 50     -- CCCs : 315      --Time(ms) : 22352
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 50 instance : 1
+
+-- MSGs : 45     -- CCCs : 202      --Time(ms) : 22154
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 50 instance : 2
+
+-- MSGs : 43     -- CCCs : 178      --Time(ms) : 21989
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 50 instance : 3
+
+-- MSGs : 73     -- CCCs : 227      --Time(ms) : 21830
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 50 instance : 4
+
+-- MSGs : 65     -- CCCs : 131      --Time(ms) : 21619
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 50 instance : 5
+
+-- MSGs : 788     -- CCCs : 7430      --Time(ms) : 22373
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 50 instance : 6
+
+-- MSGs : 716     -- CCCs : 6800      --Time(ms) : 22161
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 50 instance : 7
+
+-- MSGs : 54     -- CCCs : 139      --Time(ms) : 21584
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 50 instance : 8
+
+-- MSGs : 51     -- CCCs : 168      --Time(ms) : 21610
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 50 instance : 9
+
+-- MSGs : 153     -- CCCs : 4028      --Time(ms) : 21649
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 50 instance : 10
+
+-- MSGs : 402     -- CCCs : 7946      --Time(ms) : 22171
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 55 instance : 1
+
+-- MSGs : 64     -- CCCs : 201      --Time(ms) : 21802
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 55 instance : 2
+
+-- MSGs : 58     -- CCCs : 164      --Time(ms) : 21847
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 55 instance : 3
+
+-- MSGs : 68     -- CCCs : 527      --Time(ms) : 21382
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 55 instance : 4
+
+-- MSGs : 69     -- CCCs : 294      --Time(ms) : 21444
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 55 instance : 5
+
+-- MSGs : 75     -- CCCs : 208      --Time(ms) : 21724
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 55 instance : 6
+
+-- MSGs : 69     -- CCCs : 165      --Time(ms) : 21621
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 55 instance : 7
+
+-- MSGs : 1332     -- CCCs : 15681      --Time(ms) : 22416
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 55 instance : 8
+
+-- MSGs : 1331     -- CCCs : 15590      --Time(ms) : 23113
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 55 instance : 9
+
+-- MSGs : 71     -- CCCs : 476      --Time(ms) : 20338
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 55 instance : 10
+
+-- MSGs : 132     -- CCCs : 2223      --Time(ms) : 21287
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 60 instance : 1
+
+-- MSGs : 190     -- CCCs : 3112      --Time(ms) : 21764
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 60 instance : 2
+
+-- MSGs : 173     -- CCCs : 1979      --Time(ms) : 21757
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 60 instance : 3
+
+-- MSGs : 165     -- CCCs : 991      --Time(ms) : 21885
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 60 instance : 4
+
+-- MSGs : 191     -- CCCs : 1080      --Time(ms) : 21871
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 60 instance : 5
+
+-- MSGs : 135     -- CCCs : 1190      --Time(ms) : 21584
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 60 instance : 6
+
+-- MSGs : 141     -- CCCs : 1551      --Time(ms) : 21464
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 60 instance : 7
+
+-- MSGs : 1452     -- CCCs : 17837      --Time(ms) : 33262
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 60 instance : 8
+
+-- MSGs : 1205     -- CCCs : 14128      --Time(ms) : 23210
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 60 instance : 9
+
+-- MSGs : 54     -- CCCs : 110      --Time(ms) : 20410
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 60 instance : 10
+
+-- MSGs : 49     -- CCCs : 156      --Time(ms) : 21764
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 65 instance : 1
+
+-- MSGs : 117     -- CCCs : 1970      --Time(ms) : 21384
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 65 instance : 2
+
+-- MSGs : 119     -- CCCs : 3081      --Time(ms) : 21581
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 65 instance : 3
+
+-- MSGs : 53     -- CCCs : 416      --Time(ms) : 21465
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 65 instance : 4
+
+-- MSGs : 59     -- CCCs : 451      --Time(ms) : 21362
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 65 instance : 5
+
+-- MSGs : 82     -- CCCs : 2088      --Time(ms) : 21842
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 65 instance : 6
+
+-- MSGs : 92     -- CCCs : 2015      --Time(ms) : 21644
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 65 instance : 7
+
+-- MSGs : 242     -- CCCs : 2797      --Time(ms) : 21562
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 65 instance : 8
+
+-- MSGs : 248     -- CCCs : 2879      --Time(ms) : 21635
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 65 instance : 9
+
+-- MSGs : 493     -- CCCs : 17412      --Time(ms) : 22096
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 65 instance : 10
+
+-- MSGs : 549     -- CCCs : 18234      --Time(ms) : 22382
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 70 instance : 1
+
+-- MSGs : 452     -- CCCs : 3294      --Time(ms) : 22435
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 70 instance : 2
+
+-- MSGs : 416     -- CCCs : 3235      --Time(ms) : 22286
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 70 instance : 3
+
+-- MSGs : 56001     -- CCCs : 509896      --Time(ms) : 72576
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 70 instance : 4
+
+-- MSGs : 56677     -- CCCs : 514905      --Time(ms) : 85395
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 70 instance : 5
+
+-- MSGs : 11526     -- CCCs : 97460      --Time(ms) : 33469
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 70 instance : 6
+
+-- MSGs : 10587     -- CCCs : 104764      --Time(ms) : 33407
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 70 instance : 7
+
+-- MSGs : 61381     -- CCCs : 373534      --Time(ms) : 72455
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 70 instance : 8
+
+-- MSGs : 63827     -- CCCs : 396410      --Time(ms) : 72393
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 70 instance : 9
+
+-- MSGs : 75963     -- CCCs : 1178034      --Time(ms) : 86612
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 70 instance : 10
+
+-- MSGs : 73497     -- CCCs : 1104148      --Time(ms) : 86245
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 75 instance : 1
+
+-- MSGs : 12653     -- CCCs : 196729      --Time(ms) : 33287
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 75 instance : 2
+
+-- MSGs : 15110     -- CCCs : 241207      --Time(ms) : 33299
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 75 instance : 3
+
+-- MSGs : 9264     -- CCCs : 164139      --Time(ms) : 33537
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 75 instance : 4
+
+-- MSGs : 12208     -- CCCs : 165130      --Time(ms) : 33354
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 75 instance : 5
+
+-- MSGs : 21895     -- CCCs : 239866      --Time(ms) : 46329
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 75 instance : 6
+
+-- MSGs : 14653     -- CCCs : 161084      --Time(ms) : 46507
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 75 instance : 7
+
+-- MSGs : 493502     -- CCCs : 11644912      --Time(ms) : 438414
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 75 instance : 8
+
+-- MSGs : 509592     -- CCCs : 12615225      --Time(ms) : 502453
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 75 instance : 9
+
+-- MSGs : 3086     -- CCCs : 15095      --Time(ms) : 22646
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 75 instance : 10
+
+-- MSGs : 3054     -- CCCs : 29324      --Time(ms) : 23103
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 80 instance : 1
+
+-- MSGs : 1848     -- CCCs : 8029      --Time(ms) : 20457
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 80 instance : 2
+
+-- MSGs : 1879     -- CCCs : 10994      --Time(ms) : 33387
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 80 instance : 3
+
+-- MSGs : 24560     -- CCCs : 272026      --Time(ms) : 46355
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 80 instance : 4
+
+-- MSGs : 26136     -- CCCs : 280910      --Time(ms) : 46338
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 80 instance : 5
+
+-- MSGs : 37228     -- CCCs : 749870      --Time(ms) : 85519
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 80 instance : 6
+
+-- MSGs : 37318     -- CCCs : 781756      --Time(ms) : 85428
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 80 instance : 7
+
+-- MSGs : 1302     -- CCCs : 11017      --Time(ms) : 22352
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 80 instance : 8
+
+-- MSGs : 2795     -- CCCs : 23771      --Time(ms) : 33266
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 80 instance : 9
+
+-- MSGs : 14601     -- CCCs : 63388      --Time(ms) : 33385
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 80 instance : 10
+
+-- MSGs : 17734     -- CCCs : 85133      --Time(ms) : 33403
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 85 instance : 1
+
+-- MSGs : 2417     -- CCCs : 24846      --Time(ms) : 22463
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 85 instance : 2
+
+-- MSGs : 2428     -- CCCs : 23937      --Time(ms) : 23073
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 85 instance : 3
+
+-- MSGs : 506     -- CCCs : 4190      --Time(ms) : 20379
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 85 instance : 4
+
+-- MSGs : 569     -- CCCs : 5571      --Time(ms) : 22791
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 85 instance : 5
+
+-- MSGs : 19316     -- CCCs : 743775      --Time(ms) : 46507
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 85 instance : 6
+
+-- MSGs : 18288     -- CCCs : 461053      --Time(ms) : 46410
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 85 instance : 7
+
+-- MSGs : 83     -- CCCs : 592      --Time(ms) : 21918
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 85 instance : 8
+
+-- MSGs : 128     -- CCCs : 1241      --Time(ms) : 21952
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 85 instance : 9
+
+-- MSGs : 2568     -- CCCs : 29093      --Time(ms) : 22590
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 85 instance : 10
+
+-- MSGs : 2038     -- CCCs : 19255      --Time(ms) : 22434
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 90 instance : 1
+
+-- MSGs : 84478     -- CCCs : 954319      --Time(ms) : 72546
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 90 instance : 2
+
+-- MSGs : 81815     -- CCCs : 927659      --Time(ms) : 72647
+
+------------------------------------------------------
+Density = 70 InterAgentDensity : 20 ConnectionDensity = 70 Tightness = 90 instance : 3
+

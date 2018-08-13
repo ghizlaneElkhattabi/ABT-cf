@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<instance>
+<presentation name="MSP" type="DisCSP" model="Complex" constraintModel="TKC" format="XDisCSP 1.0" />
+<domains nbDomains="1">
+<domain name="D1" nbValues="5">1..5</domain>
+</domains>
+<variables nbVariables="4">
+<variable name="X16.1" id="1" domain="D1" description="M_1" />
+<variable name="X16.2" id="1" domain="D1" description="M_1" />
+<variable name="X16.3" id="1" domain="D1" description="M_1" />
+<variable name="X16.4" id="1" domain="D1" description="M_1" />
+</variables>
+<predicates nbPredicates="0">
+</predicates>
+<constraints>
+<constraint name="C1" model="TKC" arity="2" scope="X16.2 X16.4" reference="R433" />
+</constraints>
+<agents_neighbours>
+<agents_parent>
+<agent name = "A2">
+<constraints nbConstraints="11">
+<constraint model="TKC" name="C1" reference="R89" scope="X2.1 X16.1" arity="2">
+<parameters>X2.1 X16.1</parameters>
+</constraint>
+<constraint model="TKC" name="C2" reference="R91" scope="X2.1 X16.2" arity="2">
+<parameters>X2.1 X16.2</parameters>
+</constraint>
+<constraint model="TKC" name="C3" reference="R93" scope="X2.1 X16.4" arity="2">
+<parameters>X2.1 X16.4</parameters>
+</constraint>
+<constraint model="TKC" name="C4" reference="R102" scope="X2.2 X16.1" arity="2">
+<parameters>X2.2 X16.1</parameters>
+</constraint>
+<constraint model="TKC" name="C5" reference="R103" scope="X2.2 X16.3" arity="2">
+<parameters>X2.2 X16.3</parameters>
+</constraint>
+<constraint model="TKC" name="C6" reference="R105" scope="X2.2 X16.4" arity="2">
+<parameters>X2.2 X16.4</parameters>
+</constraint>
+<constraint model="TKC" name="C7" reference="R115" scope="X2.3 X16.2" arity="2">
+<parameters>X2.3 X16.2</parameters>
+</constraint>
+<constraint model="TKC" name="C8" reference="R116" scope="X2.3 X16.1" arity="2">
+<parameters>X2.3 X16.1</parameters>
+</constraint>
+<constraint model="TKC" name="C9" reference="R120" scope="X2.3 X16.4" arity="2">
+<parameters>X2.3 X16.4</parameters>
+</constraint>
+<constraint model="TKC" name="C10" reference="R122" scope="X2.3 X16.3" arity="2">
+<parameters>X2.3 X16.3</parameters>
+</constraint>
+<constraint model="TKC" name="C11" reference="R132" scope="X2.4 X16.3" arity="2">
+<parameters>X2.4 X16.3</parameters>
+</constraint>
+</constraints>
+</agent>
+<agent name = "A9">
+<constraints nbConstraints="11">
+<constraint model="TKC" name="C1" reference="R327" scope="X9.1 X16.1" arity="2">
+<parameters>X9.1 X16.1</parameters>
+</constraint>
+<constraint model="TKC" name="C2" reference="R328" scope="X9.1 X16.4" arity="2">
+<parameters>X9.1 X16.4</parameters>
+</constraint>
+<constraint model="TKC" name="C3" reference="R329" scope="X9.1 X16.2" arity="2">
+<parameters>X9.1 X16.2</parameters>
+</constraint>
+<constraint model="TKC" name="C4" reference="R330" scope="X9.2 X16.4" arity="2">
+<parameters>X9.2 X16.4</parameters>
+</constraint>
+<constraint model="TKC" name="C5" reference="R331" scope="X9.2 X16.2" arity="2">
+<parameters>X9.2 X16.2</parameters>
+</constraint>
+<constraint model="TKC" name="C6" reference="R332" scope="X9.2 X16.3" arity="2">
+<parameters>X9.2 X16.3</parameters>
+</constraint>
+<constraint model="TKC" name="C7" reference="R333" scope="X9.3 X16.4" arity="2">
+<parameters>X9.3 X16.4</parameters>
+</constraint>
+<constraint model="TKC" name="C8" reference="R334" scope="X9.3 X16.3" arity="2">
+<parameters>X9.3 X16.3</parameters>
+</constraint>
+<constraint model="TKC" name="C9" reference="R336" scope="X9.4 X16.1" arity="2">
+<parameters>X9.4 X16.1</parameters>
+</constraint>
+<constraint model="TKC" name="C10" reference="R337" scope="X9.4 X16.3" arity="2">
+<parameters>X9.4 X16.3</parameters>
+</constraint>
+<constraint model="TKC" name="C11" reference="R338" scope="X9.4 X16.2" arity="2">
+<parameters>X9.4 X16.2</parameters>
+</constraint>
+</constraints>
+</agent>
+<agent name = "A11">
+<constraints nbConstraints="11">
+<constraint model="TKC" name="C1" reference="R374" scope="X11.1 X16.2" arity="2">
+<parameters>X11.1 X16.2</parameters>
+</constraint>
+<constraint model="TKC" name="C2" reference="R375" scope="X11.1 X16.4" arity="2">
+<parameters>X11.1 X16.4</parameters>
+</constraint>
+<constraint model="TKC" name="C3" reference="R385" scope="X11.2 X16.4" arity="2">
+<parameters>X11.2 X16.4</parameters>
+</constraint>
+<constraint model="TKC" name="C4" reference="R386" scope="X11.2 X16.3" arity="2">
+<parameters>X11.2 X16.3</parameters>
+</constraint>
+<constraint model="TKC" name="C5" reference="R388" scope="X11.2 X16.1" arity="2">
+<parameters>X11.2 X16.1</parameters>
+</constraint>
+<constraint model="TKC" name="C6" reference="R393" scope="X11.3 X16.3" arity="2">
+<parameters>X11.3 X16.3</parameters>
+</constraint>
+<constraint model="TKC" name="C7" reference="R395" scope="X11.3 X16.2" arity="2">
+<parameters>X11.3 X16.2</parameters>
+</constraint>
+<constraint model="TKC" name="C8" reference="R396" scope="X11.3 X16.1" arity="2">
+<parameters>X11.3 X16.1</parameters>
+</constraint>
+<constraint model="TKC" name="C9" reference="R400" scope="X11.4 X16.4" arity="2">
+<parameters>X11.4 X16.4</parameters>
+</constraint>
+<constraint model="TKC" name="C10" reference="R401" scope="X11.4 X16.2" arity="2">
+<parameters>X11.4 X16.2</parameters>
+</constraint>
+<constraint model="TKC" name="C11" reference="R403" scope="X11.4 X16.1" arity="2">
+<parameters>X11.4 X16.1</parameters>
+</constraint>
+</constraints>
+</agent>
+</agents_parent>
+<agents_children>
+</agents_children>
+</agents_neighbours>
+<relations>
+<relation name="R433" semantics="conflicts">2 5|3 2|2 3|1 3|5 4</relation>
+<relation name="R89" semantics="conflicts">1 4|1 1|4 5|2 3|3 3</relation>
+<relation name="R91" semantics="conflicts">4 5|1 3|5 3|5 5|5 1</relation>
+<relation name="R93" semantics="conflicts">4 4|3 1|4 5|3 5|4 2</relation>
+<relation name="R102" semantics="conflicts">1 3|4 5|3 1|1 2|1 5</relation>
+<relation name="R103" semantics="conflicts">3 5|3 2|4 5|3 4|1 1</relation>
+<relation name="R105" semantics="conflicts">5 4|4 1|2 1|2 2|4 3</relation>
+<relation name="R115" semantics="conflicts">1 2|1 3|1 5|5 5|2 5</relation>
+<relation name="R116" semantics="conflicts">4 1|1 3|5 1|4 5|4 2</relation>
+<relation name="R120" semantics="conflicts">5 3|4 1|2 5|3 5|1 5</relation>
+<relation name="R122" semantics="conflicts">1 3|3 1|3 4|1 5|2 3</relation>
+<relation name="R132" semantics="conflicts">3 4|3 1|1 3|2 5|5 2</relation>
+<relation name="R327" semantics="conflicts">2 2|3 5|1 1|3 1|3 3</relation>
+<relation name="R328" semantics="conflicts">3 5|4 4|2 4|1 4|1 3</relation>
+<relation name="R329" semantics="conflicts">4 4|4 5|2 4|3 3|3 4</relation>
+<relation name="R330" semantics="conflicts">2 1|1 2|3 4|5 1|4 2</relation>
+<relation name="R331" semantics="conflicts">1 1|1 4|1 2|5 3|4 1</relation>
+<relation name="R332" semantics="conflicts">2 1|3 5|3 3|1 2|4 3</relation>
+<relation name="R333" semantics="conflicts">3 1|3 3|3 4|1 4|5 5</relation>
+<relation name="R334" semantics="conflicts">3 1|4 2|1 2|1 1|4 4</relation>
+<relation name="R336" semantics="conflicts">2 2|5 3|1 3|5 2|5 4</relation>
+<relation name="R337" semantics="conflicts">5 2|1 2|1 4|2 5|3 1</relation>
+<relation name="R338" semantics="conflicts">1 3|1 4|3 1|2 5|4 4</relation>
+<relation name="R374" semantics="conflicts">3 5|3 1|1 1|5 4|2 5</relation>
+<relation name="R375" semantics="conflicts">2 5|2 4|5 4|1 4|1 1</relation>
+<relation name="R385" semantics="conflicts">1 2|2 1|3 5|1 1|4 4</relation>
+<relation name="R386" semantics="conflicts">4 4|3 5|1 4|2 2|1 2</relation>
+<relation name="R388" semantics="conflicts">1 4|4 4|4 5|5 3|2 3</relation>
+<relation name="R393" semantics="conflicts">3 5|2 3|4 4|1 3|3 4</relation>
+<relation name="R395" semantics="conflicts">2 4|1 4|2 3|3 2|1 1</relation>
+<relation name="R396" semantics="conflicts">3 4|2 2|4 1|3 2|1 3</relation>
+<relation name="R400" semantics="conflicts">3 3|3 4|2 4|4 2|4 4</relation>
+<relation name="R401" semantics="conflicts">5 1|1 5|2 2|5 3|3 5</relation>
+<relation name="R403" semantics="conflicts">5 2|4 5|3 4|2 2|1 5</relation>
+</relations>
+</instance>

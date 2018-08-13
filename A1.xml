@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<instance>
+<presentation name="MSP" type="DisCSP" model="Complex" constraintModel="TKC" format="XDisCSP 1.0" />
+<domains nbDomains="1">
+<domain name="D1" nbValues="4">1..4</domain>
+</domains>
+<variables nbVariables="4">
+<variable name="X1.1" id="1" domain="D1" description="M_1" />
+<variable name="X1.2" id="1" domain="D1" description="M_1" />
+<variable name="X1.3" id="1" domain="D1" description="M_1" />
+<variable name="X1.4" id="1" domain="D1" description="M_1" />
+</variables>
+<predicates nbPredicates="0">
+</predicates>
+<constraints>
+<constraint name="C1" model="TKC" arity="2" scope="X1.1 X1.2" reference="R1" />
+<constraint name="C2" model="TKC" arity="2" scope="X1.1 X1.4" reference="R2" />
+<constraint name="C3" model="TKC" arity="2" scope="X1.2 X1.3" reference="R9" />
+<constraint name="C4" model="TKC" arity="2" scope="X1.3 X1.4" reference="R16" />
+</constraints>
+<agents_neighbours>
+<agents_parent>
+</agents_parent>
+<agents_children>
+<agent name = "A3">
+<constraints nbConstraints="11">
+<constraint model="TKC" name="C1" reference="R0" scope="X1.1 X3.4" arity="2">
+<parameters>X1.1 X3.4</parameters>
+</constraint>
+<constraint model="TKC" name="C2" reference="R6" scope="X1.1 X3.1" arity="2">
+<parameters>X1.1 X3.1</parameters>
+</constraint>
+<constraint model="TKC" name="C3" reference="R7" scope="X1.1 X3.2" arity="2">
+<parameters>X1.1 X3.2</parameters>
+</constraint>
+<constraint model="TKC" name="C4" reference="R8" scope="X1.2 X3.4" arity="2">
+<parameters>X1.2 X3.4</parameters>
+</constraint>
+<constraint model="TKC" name="C5" reference="R12" scope="X1.2 X3.3" arity="2">
+<parameters>X1.2 X3.3</parameters>
+</constraint>
+<constraint model="TKC" name="C6" reference="R13" scope="X1.2 X3.2" arity="2">
+<parameters>X1.2 X3.2</parameters>
+</constraint>
+<constraint model="TKC" name="C7" reference="R14" scope="X1.3 X3.4" arity="2">
+<parameters>X1.3 X3.4</parameters>
+</constraint>
+<constraint model="TKC" name="C8" reference="R19" scope="X1.3 X3.2" arity="2">
+<parameters>X1.3 X3.2</parameters>
+</constraint>
+<constraint model="TKC" name="C9" reference="R20" scope="X1.3 X3.3" arity="2">
+<parameters>X1.3 X3.3</parameters>
+</constraint>
+<constraint model="TKC" name="C10" reference="R24" scope="X1.4 X3.2" arity="2">
+<parameters>X1.4 X3.2</parameters>
+</constraint>
+<constraint model="TKC" name="C11" reference="R25" scope="X1.4 X3.3" arity="2">
+<parameters>X1.4 X3.3</parameters>
+</constraint>
+</constraints>
+</agent>
+<agent name = "A2">
+<constraints nbConstraints="11">
+<constraint model="TKC" name="C1" reference="R3" scope="X1.1 X2.1" arity="2">
+<parameters>X1.1 X2.1</parameters>
+</constraint>
+<constraint model="TKC" name="C2" reference="R4" scope="X1.1 X2.2" arity="2">
+<parameters>X1.1 X2.2</parameters>
+</constraint>
+<constraint model="TKC" name="C3" reference="R5" scope="X1.1 X2.4" arity="2">
+<parameters>X1.1 X2.4</parameters>
+</constraint>
+<constraint model="TKC" name="C4" reference="R10" scope="X1.2 X2.1" arity="2">
+<parameters>X1.2 X2.1</parameters>
+</constraint>
+<constraint model="TKC" name="C5" reference="R11" scope="X1.2 X2.2" arity="2">
+<parameters>X1.2 X2.2</parameters>
+</constraint>
+<constraint model="TKC" name="C6" reference="R15" scope="X1.3 X2.2" arity="2">
+<parameters>X1.3 X2.2</parameters>
+</constraint>
+<constraint model="TKC" name="C7" reference="R17" scope="X1.3 X2.1" arity="2">
+<parameters>X1.3 X2.1</parameters>
+</constraint>
+<constraint model="TKC" name="C8" reference="R18" scope="X1.3 X2.4" arity="2">
+<parameters>X1.3 X2.4</parameters>
+</constraint>
+<constraint model="TKC" name="C9" reference="R21" scope="X1.4 X2.1" arity="2">
+<parameters>X1.4 X2.1</parameters>
+</constraint>
+<constraint model="TKC" name="C10" reference="R22" scope="X1.4 X2.4" arity="2">
+<parameters>X1.4 X2.4</parameters>
+</constraint>
+<constraint model="TKC" name="C11" reference="R23" scope="X1.4 X2.3" arity="2">
+<parameters>X1.4 X2.3</parameters>
+</constraint>
+</constraints>
+</agent>
+</agents_children>
+</agents_neighbours>
+<relations>
+<relation name="R1" semantics="conflicts">1 3|1 2|2 2|4 1|2 4|4 3|4 4|3 2|2 1|2 3|3 4|4 2</relation>
+<relation name="R2" semantics="conflicts">4 2|2 3|3 1|1 3|3 3|2 2|4 4|4 3|4 1|1 4|1 2|3 4</relation>
+<relation name="R9" semantics="conflicts">3 2|4 1|4 2|4 3|1 2|1 4|2 2|1 1|2 4|4 4|3 4|3 1</relation>
+<relation name="R16" semantics="conflicts">2 4|1 3|4 1|1 4|2 2|1 2|3 4|2 3|3 1|3 2|4 3|3 3</relation>
+<relation name="R0" semantics="conflicts">3 4|1 3|1 2|2 4|1 1|2 1|2 3|4 4|1 4|3 1|4 3|3 3</relation>
+<relation name="R3" semantics="conflicts">4 1|3 4|4 4|2 1|4 2|4 3|1 1|1 3|2 3|1 4|3 1|2 4</relation>
+<relation name="R4" semantics="conflicts">4 3|3 1|1 3|1 4|1 2|2 4|1 1|2 1|4 4|4 2|3 2|4 1</relation>
+<relation name="R5" semantics="conflicts">2 4|1 1|4 2|4 1|1 3|3 4|2 2|4 4|3 2|1 2|2 1|1 4</relation>
+<relation name="R6" semantics="conflicts">4 4|3 4|1 1|3 3|1 4|4 3|2 3|2 1|1 2|4 1|4 2|2 2</relation>
+<relation name="R7" semantics="conflicts">2 3|3 3|4 4|1 1|4 3|3 1|2 4|2 1|1 2|2 2|3 2|1 4</relation>
+<relation name="R8" semantics="conflicts">2 1|1 3|2 2|1 1|3 2|1 2|2 4|3 4|4 3|4 4|1 4|4 1</relation>
+<relation name="R10" semantics="conflicts">2 3|3 1|4 4|1 3|2 2|3 3|2 1|4 3|1 1|4 1|4 2|3 2</relation>
+<relation name="R11" semantics="conflicts">4 2|2 1|2 4|2 3|1 3|1 1|3 4|3 1|1 2|4 1|2 2|3 3</relation>
+<relation name="R12" semantics="conflicts">1 2|4 1|2 3|3 1|2 1|4 3|3 4|1 3|1 4|3 2|1 1|4 2</relation>
+<relation name="R13" semantics="conflicts">1 3|2 3|3 2|4 2|4 4|4 3|2 2|4 1|2 1|1 2|1 1|3 1</relation>
+<relation name="R14" semantics="conflicts">1 1|1 4|2 4|3 3|1 3|3 1|3 2|4 1|3 4|2 2|4 4|1 2</relation>
+<relation name="R15" semantics="conflicts">3 4|3 2|3 1|4 3|2 4|1 4|2 3|1 3|4 2|1 2|1 1|2 2</relation>
+<relation name="R17" semantics="conflicts">1 1|4 1|2 1|1 3|1 4|3 4|4 3|2 2|2 4|2 3|3 3|3 1</relation>
+<relation name="R18" semantics="conflicts">1 2|3 1|1 4|3 2|4 2|2 1|2 4|3 4|4 3|4 1|2 2|2 3</relation>
+<relation name="R19" semantics="conflicts">2 1|3 4|4 2|4 4|3 2|4 3|2 2|3 3|2 3|1 1|1 3|3 1</relation>
+<relation name="R20" semantics="conflicts">3 1|3 4|1 2|4 1|1 4|4 4|3 2|2 1|2 2|4 2|2 3|2 4</relation>
+<relation name="R21" semantics="conflicts">3 2|2 2|3 1|1 3|4 4|4 1|2 1|4 2|2 4|3 4|1 4|1 1</relation>
+<relation name="R22" semantics="conflicts">1 3|4 3|1 4|4 1|1 1|4 2|3 2|2 4|3 3|1 2|4 4|2 2</relation>
+<relation name="R23" semantics="conflicts">1 1|1 2|4 4|4 3|1 3|2 1|3 2|3 3|2 2|2 3|4 2|3 4</relation>
+<relation name="R24" semantics="conflicts">2 1|4 4|2 2|4 2|1 3|3 2|1 1|1 2|2 4|1 4|3 1|4 1</relation>
+<relation name="R25" semantics="conflicts">3 2|1 2|4 2|3 1|2 4|3 3|4 1|2 3|1 4|3 4|2 1|4 3</relation>
+</relations>
+</instance>

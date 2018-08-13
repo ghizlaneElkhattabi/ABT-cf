@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<instance>
+<presentation name="MSP" type="DisCSP" model="Complex" constraintModel="TKC" format="XDisCSP 1.0" />
+<domains nbDomains="1">
+<domain name="D1" nbValues="5">1..5</domain>
+</domains>
+<variables nbVariables="4">
+<variable name="X20.1" id="1" domain="D1" description="M_1" />
+<variable name="X20.2" id="1" domain="D1" description="M_1" />
+<variable name="X20.3" id="1" domain="D1" description="M_1" />
+<variable name="X20.4" id="1" domain="D1" description="M_1" />
+</variables>
+<predicates nbPredicates="0">
+</predicates>
+<constraints>
+<constraint name="C1" model="TKC" arity="2" scope="X20.2 X20.4" reference="R437" />
+</constraints>
+<agents_neighbours>
+<agents_parent>
+<agent name = "A14">
+<constraints nbConstraints="11">
+<constraint model="TKC" name="C1" reference="R409" scope="X14.1 X20.1" arity="2">
+<parameters>X14.1 X20.1</parameters>
+</constraint>
+<constraint model="TKC" name="C2" reference="R410" scope="X14.1 X20.3" arity="2">
+<parameters>X14.1 X20.3</parameters>
+</constraint>
+<constraint model="TKC" name="C3" reference="R411" scope="X14.1 X20.4" arity="2">
+<parameters>X14.1 X20.4</parameters>
+</constraint>
+<constraint model="TKC" name="C4" reference="R413" scope="X14.2 X20.1" arity="2">
+<parameters>X14.2 X20.1</parameters>
+</constraint>
+<constraint model="TKC" name="C5" reference="R414" scope="X14.2 X20.2" arity="2">
+<parameters>X14.2 X20.2</parameters>
+</constraint>
+<constraint model="TKC" name="C6" reference="R415" scope="X14.3 X20.2" arity="2">
+<parameters>X14.3 X20.2</parameters>
+</constraint>
+<constraint model="TKC" name="C7" reference="R416" scope="X14.3 X20.3" arity="2">
+<parameters>X14.3 X20.3</parameters>
+</constraint>
+<constraint model="TKC" name="C8" reference="R417" scope="X14.4 X20.1" arity="2">
+<parameters>X14.4 X20.1</parameters>
+</constraint>
+<constraint model="TKC" name="C9" reference="R418" scope="X14.4 X20.4" arity="2">
+<parameters>X14.4 X20.4</parameters>
+</constraint>
+<constraint model="TKC" name="C10" reference="R419" scope="X14.4 X20.3" arity="2">
+<parameters>X14.4 X20.3</parameters>
+</constraint>
+<constraint model="TKC" name="C11" reference="R420" scope="X14.4 X20.2" arity="2">
+<parameters>X14.4 X20.2</parameters>
+</constraint>
+</constraints>
+</agent>
+</agents_parent>
+<agents_children>
+</agents_children>
+</agents_neighbours>
+<relations>
+<relation name="R437" semantics="conflicts">2 2|1 4|4 1|1 5|4 4</relation>
+<relation name="R409" semantics="conflicts">3 5|1 1|5 5|1 4|1 2</relation>
+<relation name="R410" semantics="conflicts">3 5|4 5|4 2|4 3|3 4</relation>
+<relation name="R411" semantics="conflicts">3 1|4 5|5 5|4 1|2 4</relation>
+<relation name="R413" semantics="conflicts">5 2|2 1|1 2|5 3|3 3</relation>
+<relation name="R414" semantics="conflicts">4 4|3 4|3 1|1 1|4 1</relation>
+<relation name="R415" semantics="conflicts">1 2|4 1|5 3|3 2|1 4</relation>
+<relation name="R416" semantics="conflicts">5 5|1 1|5 3|3 4|4 5</relation>
+<relation name="R417" semantics="conflicts">1 2|1 1|4 5|1 4|2 3</relation>
+<relation name="R418" semantics="conflicts">4 5|2 2|1 4|3 5|5 4</relation>
+<relation name="R419" semantics="conflicts">1 5|4 5|5 4|4 4|1 3</relation>
+<relation name="R420" semantics="conflicts">4 2|3 2|4 3|1 5|3 5</relation>
+</relations>
+</instance>
